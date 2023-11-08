@@ -213,7 +213,7 @@ dmidecode # for inxi -m output
 firefox
 htop
 inxi
-#>extra krita
+krita
 #ms-office-online
 #>extra onlyoffice-desktopeditors
 #>extra freeoffice
