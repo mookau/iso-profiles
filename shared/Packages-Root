@@ -31,10 +31,12 @@ intel-ucode
 jfsutils
 KERNEL
 less
+linux-firmware
+linux-firmware-marvell
 logrotate
 lvm2
 man-db
-#manjaro-firmware
+manjaro-firmware
 manjaro-release
 manjaro-system
 manjaro-zsh-config
@@ -47,6 +49,7 @@ mhwd-db
 mkinitcpio-openswap
 nano
 nano-syntax-highlighting
+networkmanager
 nfs-utils
 ntfs-3g
 os-prober
